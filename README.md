@@ -12,4 +12,5 @@ GAMBAR OUTPUT KEDUA
 ![Python Turtle Graphics 1_8_2024 4_48_12 AM](https://github.com/calvin123u/Tugas-UAS/assets/146921506/064c840d-0769-4fa7-8387-01e70faffe41)
 
 LINK YOUTUBE:
+https://youtu.be/ykzwXyqpE0o?si=ottwi01AACr7siG6
 
